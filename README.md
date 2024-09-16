@@ -1,5 +1,5 @@
 ## Hi there 👋  
-- ⚡ I'm [Ifeanyi Umeh](https://ifeanyiumeh.com), a creative front-end developer with a deep passion for creating user-centric digital experiences.  
+- ⚡ I'm [Ifeanyi Umeh](https://www.ifeanyiumeh.com), a creative front-end developer with a deep passion for creating user-centric digital experiences.  
 - 🌱 Having a strong foundation in design, I'm dedicated to creating visually stunning and responsive websites and applications that prioritize usability.  
 - 🔭 I'm always eager to explore new technologies and trends to stay at the forefront of the industry.
 
