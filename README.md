@@ -1,27 +1,15 @@
 ## Hi there 👋  
-I’m a Frontend Engineer focused on building scalable, high-performance web and mobile applications with modern JavaScript and TypeScript technologies.
+I'm a Software Engineer, focused on building scalable, high-performance web and mobile applications that solve real-world problems.
 
-I specialize in React, Next.js, React Native, and TypeScript, with hands-on experience building production applications from MVPs to full-scale platforms. I care about more than just getting an interface to work — I focus on clean architecture, maintainable code, responsive user experiences, performance, and long-term scalability.
+I major in frontend engineering, with expertise in React, Next.js, React Native, TypeScript, and modern JavaScript. I build intuitive, responsive user experiences backed by clean architecture, maintainable code, performance optimization, and thoughtful engineering decisions.
 
-My experience spans both frontend and backend development. On the backend, I have worked extensively with Firebase, Firestore, Firebase Authentication, and server-side application logic, and I have been expanding my backend engineering capabilities with Node.js, Express, PostgreSQL, Prisma, REST APIs, authentication, testing, and deployment.
+Beyond frontend development, I have hands-on experience building full-stack applications and working with Firebase, Firestore, Firebase Authentication, and server-side application logic. I'm also expanding my backend engineering expertise with Node.js, Express, PostgreSQL, Prisma, Nestjs.
 
-I have worked across eCommerce, SaaS, real estate, logistics, and education, building and maintaining systems that support real business operations. I also have hands-on experience with WordPress, WooCommerce, payments, integrations, SEO, performance optimization, and cloud deployment.
+My experience spans eCommerce, SaaS, real estate, logistics, and education, including production platforms that support real business operations. I also work with WordPress, WooCommerce, payment integrations, third-party services, SEO, performance optimization, and cloud deployment.
 
 🧠 Core Technologies:
 
-React • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS • Firebase • Firestore • Node.js • Express • PostgreSQL • Prisma • REST APIs • WordPress • WooCommerce
-
-💼 What I Do:
-
-• Build scalable web and mobile applications
-• Develop responsive, accessible, and high-performance interfaces
-• Design frontend architecture and reusable component systems
-• Build and integrate APIs and backend services
-• Implement authentication, authorization, and secure data access
-• Work with real-time databases and cloud services
-• Build and optimize eCommerce platforms
-• Improve application performance, SEO, and user experience
-• Take products from development through deployment and ongoing maintenance
+React • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS • TanStack Query • Firebase • Firestore • Node.js • Express • PostgreSQL • Prisma • REST APIs • Git • WordPress • WooCommerce.
 
 I enjoy solving complex product and engineering problems, learning new technologies, and taking ownership of projects from idea → architecture → development → deployment → continuous improvement.
 
